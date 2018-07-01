@@ -12,7 +12,7 @@
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
-🚸 ❯❯ git clone https://github.com/MEXECOTEAM/FAYROS.git && cd STORM && chmod +x tg && chmod +x launch.sh && ./launch.sh
+🚸 ❯❯ git clone https://github.com/MEXECOTEAM/FAYROS.git && cd FAYROS && chmod +x tg && chmod +x launch.sh && ./launch.sh
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
